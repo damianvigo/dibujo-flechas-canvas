@@ -1,2 +1,2 @@
-# dibujo-flechas-canvas
+# dibujoFlechasCanvas
 Dibujo con las flechas del teclado en Canvas.
